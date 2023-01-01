@@ -5,7 +5,7 @@ function openModal() {
   
 function closeModal() {
     document.getElementById("myModal").style.display = "none";
-    document.getElemenyById("nav").style.display = "block"
+    document.getElementById("nav").style.display = "block"
 }
 
 var slideIndex = 1;
